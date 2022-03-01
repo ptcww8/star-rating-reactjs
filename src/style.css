@@ -1,0 +1,23 @@
+h1,
+p {
+  font-family: Lato;
+}
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: rgb(182, 245, 11);
+}
+.off {
+  color: #ccc;
+}
+
+.buttonStar {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
